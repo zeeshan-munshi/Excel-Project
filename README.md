@@ -1,4 +1,3 @@
-# excel-project
 # AtliQ-Hardware-Sales-Finance-Analysis <img src='https://github.com/ShailajaSirumalla22/Excel-Sales-and-Finance-Report/blob/main/atliq_logo.png' width='40'>
 
 AtliQ Hardware is a company that supplies computer hardware and peripherals to clients across the world.
